@@ -1,5 +1,0 @@
-str("Hello World')
-Animals = ["Flamingo", 'Elephant', 'Giraffe', 'Monkey', 'Crocodile']
-Colors = {"Flamingo": "pink", 'Elephant: 'grey', 'Giraffe': 'spotted', 'Monkey': 'black', 'Crocodile': 'green'}
-print(Animals)
-print(Colors)
